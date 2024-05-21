@@ -1,9 +1,10 @@
-/* login.css */
 .container {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+    width: 100%;
+    max-width: 1800px;
     background-color: #f0f0f0;
 }
 
